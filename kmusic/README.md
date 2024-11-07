@@ -7,20 +7,11 @@ Welcome to KMusic App a sleek, responsive, and feature-rich music player built w
 
 | Feature       | Preview                    |
 |---------------|----------------------------|
-| Home Screen   | ![Home](assets\images\k1.jpg) |
-| Radar View    | ![Radar](assets\images\k1.jpg) |       
+| Splash Screen   | ![Splash](assets\images\k1.jpg) |
+| Home Screen 1    | ![Home1](assets\images\k2.jpg) |       
+| Home Screen 2    | ![Home2](assets\images\k3.jpg) |   
+| Music Player    | ![Player](assets\images\k4.jpg) |   
 
-                                    SPLASH SCREEN
-![Description of Image](assets\images\k1.jpg)
-
-                                           HOME SCREEN 1
-![Description of Image](assets\images\k2.jpg)
-
-                                           HOME SCREEN 2
-![Description of Image](assets\images\k3.jpg)
-
-                                           MUSIC PLAYER 
-![Description of Image](assets\images\k4.jpg)
 
 
 ## 🌟 Features
