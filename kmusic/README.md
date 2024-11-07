@@ -2,8 +2,16 @@
 
 Welcome to KMusic App a sleek, responsive, and feature-rich music player built with Flutter. This app provides a smooth and engaging music listening experience with a modern UI, enabling users to easily play, pause, and navigate through their favorite tracks.
 
-                                           SPLASH SCREEN
-![Description of Image](E:\Flutter Project\MUSIC_APP\kmusic\assets\images\k1.jpg)
+
+## Screenshots
+
+| Feature       | Preview                    |
+|---------------|----------------------------|
+| Home Screen   | ![Home](assets\images\k1.jpg) |
+| Radar View    | ![Radar](assets\images\k1.jpg) |       
+
+                                    SPLASH SCREEN
+![Description of Image](assets\images\k1.jpg)
 
                                            HOME SCREEN 1
 ![Description of Image](assets\images\k2.jpg)
